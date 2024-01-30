@@ -29,9 +29,14 @@ Links to material:
 <details>
 <summary>Day 4, 1/3/24: <b>Started the freeCodeCamp Responsive Web Design Course Section</b></summary>
 
+The log from here on out will mostly be filled with these course modules as I work towards each curriculum certificate!
+
+[freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/)
 - Completed Learn CSS by Building a Set of Colored Markers.<br>
   _Always love doing CSS refreshers to keep up to date with my understanding of all the various ways to shade, shadow & color_
 - Moving on to continue with freeCodeCamp Typescript tutorial for the rest of the afternoon.
+
+
 </details>
 
 <details>
