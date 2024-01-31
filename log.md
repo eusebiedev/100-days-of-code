@@ -33,8 +33,10 @@ The log from here on out will mostly be filled with these course modules as I wo
 
 [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/)
 - Completed Learn CSS by Building a Set of Colored Markers
-  _Always love doing CSS refreshers to keep up to date with my understanding of all the various ways to shade, shadow & color_
 - Moving on to continue with freeCodeCamp Typescript tutorial for the rest of the afternoon.
+
+_Always love doing CSS refreshers to keep up to date with my understanding of all the various ways to shade, shadow & color_
+
 </details>
 
 <details>

@@ -1,12 +1,15 @@
 # I've joined the #100DaysOfCode Challenge
 
+After graduating from bootcamp last year, I find it's important to keep my skills fresh and up to date! So I've embarked on this challenge to stay focused on the dev dream, be productive, creative, and part of the community! Coding every day of the challenge that I can is sharpening my syntax, ability to grasp tasks and problem solve quicker, and my overall confidence and consistency is improving so much!
+- [Log - click here to see my progress](log.md)
+
 #### Here's a link to the 100 Days Of Code Challenge Discord Edition article! Find me on the server and say hello!<br> 
-[freeCodeCamp 100 Days of Code on Discord!](https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/)
+- [freeCodeCamp 100 Days of Code on Discord!](https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/)<br>
+- [And click here to head over the freeCodeCamp curriculum!](https://www.freecodecamp.org/learn)
 
 ## Contents
 
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
