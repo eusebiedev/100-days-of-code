@@ -61,7 +61,7 @@ Completed:
 <p>** Will be backlogging the rest of this course section progress here. **</p>
 
 <details>
-<summary>Day 22-23, 1/22/24 <b><i>Earned the freeCodeCamp Responive Web Design Certificate!</i></b></summary>
+<summary>Day 22-23, 1/22/24 <b><i>Earned the freeCodeCamp Responsive Web Design Certificate!</i></b></summary>
 Completed:
 
 - Learn css by by building a ferris wheel
@@ -91,7 +91,8 @@ Completed:
 
 - Learn JavaScript by building a Role Playing Game.
 
-Being that game development isn't my main avenue of interest, it's a great way to brush up on some solid JS basics and learning more, as is always the case...study, practice, build! 
+Being that game development isn't my main avenue of interest, it's a great way to brush up on some solid JS basics and learning more, 
+as is always the case...study, practice, build! 
 </details>
 
 <details>
@@ -112,4 +113,11 @@ Completed:
 <summary>Day 32, 2/10/24</summary>
 
 -  I'm back at it after a brief break. Working through the JavaScript course section on string and array methods. I love ternary operators!
+</details>
+
+<details>
+<summary>Day 33, 2/11/24</summary>
+Completed:
+
+-  Learn String and Array Methods by building a Music Player
 </details>
