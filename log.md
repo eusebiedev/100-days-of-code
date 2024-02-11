@@ -107,3 +107,9 @@ Completed:
 - Learn Form Validation by Completing a Calorie Counter
 - Started reading 'Gitting Things Done' as well. Such a great book!
 </details>
+
+<details>
+<summary>Day 32, 2/10/24</summary>
+
+-  I'm back at it after a brief break. Working through the JavaScript course section on string and array methods. I love ternary operators!
+</details>
