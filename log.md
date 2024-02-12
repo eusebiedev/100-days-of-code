@@ -119,5 +119,7 @@ Completed:
 <summary>Day 33, 2/11/24</summary>
 Completed:
 
--  Learn String and Array Methods by building a Music Player
+- Learn String and Array Methods by building a Music Player
+- Learn Date object by building a Date Formatter
+- Build a Palindrome Checker, 1st module certification project
 </details>
