@@ -123,3 +123,10 @@ Completed:
 - Learn Date object by building a Date Formatter
 - Build a Palindrome Checker, 1st module certification project
 </details>
+
+<details>
+<summary>Day 34, 2/12/24</summary>
+
+- Studying, practicing, deep diving all things Git today, specifically 'blobs and their respective SHA-1s'. Then taking a brief break.
+
+</details>
