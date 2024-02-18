@@ -130,3 +130,13 @@ Completed:
 - Studying, practicing, deep diving all things Git today, specifically 'blobs and their respective SHA-1s'. Then taking a brief break.
 
 </details>
+
+<details>
+<summary>Day 35, 2/17/24</summary>
+Completed:
+
+- Learn Modern JavaScript Methods by building football team cards
+- Reading and practicing along with Gitting Things Done book. 📚
+
+Expect some updates as I enter nonconsecutive days. Life, work, and exhaustion may delay them, but I'm determined to succeed!
+</details>
