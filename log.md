@@ -1,7 +1,7 @@
 # 100 Days Of Code Challenge - Log 2024!
-<h4><span style="color: aqua">Began the 100-Days-of-Code Challenge!</span><h4>
+
 <details>
-<summary>Day 1, 12/31/23</summary>
+<summary>Day 1, 12/31/23 - Began the 100-Days-of-Code Challenge!</summary>
 
 Kicked off with beginning to study a comprehensive guide to Django. Interspersed with a new Google Cloud Skills boost introduction learning path.
 Later I'll begin the Learn React by building a Mortgage Calculator project.
@@ -28,7 +28,7 @@ Links to material:
 </details>
 
 <details>
-<summary>Day 4, 1/3/24 - <b><span style="color: violet">Started the freeCodeCamp Responsive Web Design Course Section</span></b></summary>
+<summary>Day 4, 1/3/24 - <b>Started the freeCodeCamp Responsive Web Design Course Section</b></summary>
 The log from here on out will mostly be filled with these course modules as I work towards each curriculum certificate!
 
 [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/)
@@ -61,7 +61,7 @@ Completed:
 <p>** Will be backlogging the rest of this course section progress here. **</p>
 
 <details>
-<summary>Day 22-23, 1/22/24 - <b><i><span style="color:aqua">Earned the freeCodeCamp Responsive Web Design Certificate!</span></i></b></summary>
+<summary>Day 22-23, 1/22/24 - <b><i>Earned the freeCodeCamp Responsive Web Design Certificate!</i></b></summary>
 Completed:
 
 - Learn css by by building a ferris wheel
@@ -72,7 +72,7 @@ Completed:
 <hr>
 <br>
 <details>
-<summary>Day 24, 1/23/24 - <b><span style="color: violet">Started the freeCodeCamp JavaScript Algorithms and Data Structures curriculum!</b></span></summary>
+<summary>Day 24, 1/23/24 - <b>Started the freeCodeCamp JavaScript Algorithms and Data Structures curriculum!</b></summary>
 
 - Working through the 1st group module of the Javascript, Algorithms & Data Structures curriculum. Loving the refresher! 
 I hadn't used querySelector in some time 🙃
