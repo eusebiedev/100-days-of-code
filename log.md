@@ -140,3 +140,13 @@ Completed:
 
 Expect some updates as I enter nonconsecutive days. Life, work, and exhaustion may delay them, but I'm determined to succeed!
 </details>
+
+<details>
+<summary>Day 36, 2/20/24</summary>
+Completed these freeCodeCamp JavaScript course modules:
+
+- Learn local storage by building a todo app
+- Learn recursion by building a decimal to binary converter
+
+(days 18th, 19th 20th, working tons too, applying to dev jobs, trying to read more as well) 
+</details>
