@@ -150,6 +150,7 @@ Completed these freeCodeCamp JavaScript course modules:
 
 (days 18th, 19th 20th, working tons too, applying to dev jobs, trying to read more as well) 
 </details>
+
 <details>
 <summary>Day 37, 2/23/24</summary>
 Completed:
@@ -157,4 +158,10 @@ Completed:
 - Build a Roman Numeral Converter project
 
 (this was a 3 day build, as work was busy as well)
+</details>
+<details>
+<summary>Day 38, 2/25/24</summary>
+Completed:
+
+- Learn basic algorithmic thinking by building a number sorter
 </details>
