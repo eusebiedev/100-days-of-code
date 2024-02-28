@@ -165,3 +165,9 @@ Completed:
 
 - Learn basic algorithmic thinking by building a number sorter
 </details>
+<details>
+<summary>Day 39, 2/27/24</summary>
+Completed: (2 day build)
+
+- Learn advanced array methods by building a statistics calculator
+</details>
