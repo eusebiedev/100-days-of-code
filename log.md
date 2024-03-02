@@ -171,3 +171,10 @@ Completed: (2 day build)
 
 - Learn advanced array methods by building a statistics calculator
 </details>
+<details>
+<summary>Day 40, 3/01/24</summary>
+
+- Working thru functional programming techniques by building a spreadsheet via the JavaScript course module
+(had an insane workweek, 9 & 10hr days 😠 ) 
+</details>
+
