@@ -193,4 +193,9 @@ This was exciting to learn how to build!
  - Began working on the course module: Learn Regular Expressions by Building a Spam Filter.
 This is a pretty cool lesson. I enjoy the code behind these odd character combinations.
 </details>
+<details>
+<summary>Day 43, 3/08/24</summary>
+
+ - Continue learning regular expressions by building a Spam Filter lesson today.
+</details>
 
