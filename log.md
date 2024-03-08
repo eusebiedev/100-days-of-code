@@ -187,3 +187,10 @@ Completed:
 This was exciting to learn how to build! 
 </details>
 
+<details>
+<summary>Day 42, 3/07/24</summary>
+
+ - Began working on the course module: Learn Regular Expressions by Building a Spam Filter.
+This is a pretty cool lesson. I enjoy the code behind these odd character combinations.
+</details>
+
