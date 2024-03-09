@@ -195,7 +195,8 @@ This is a pretty cool lesson. I enjoy the code behind these odd character combin
 </details>
 <details>
 <summary>Day 43, 3/08/24</summary>
+Completed:
 
- - Continue learning regular expressions by building a Spam Filter lesson today. As odd as the syntax is, it's pretty cool.
+ - JavaScript Learn regular expressions by building a Spam Filter.
 </details>
 
