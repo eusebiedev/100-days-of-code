@@ -193,10 +193,24 @@ This was exciting to learn how to build!
  - Began working on the course module: Learn Regular Expressions by Building a Spam Filter.
 This is a pretty cool lesson. I enjoy the code behind these odd character combinations.
 </details>
+
 <details>
 <summary>Day 43, 3/08/24</summary>
 Completed:
 
  - JavaScript Learn regular expressions by building a Spam Filter.
+</details>
+
+<details>
+<summary>Day 44, 3/09/24</summary>
+Completed:
+
+ - the 3rd  freeCodeCamp JavaScript, Algorithms, and Data Structures  certification project: Build a Telephone Number Validator
+</details>
+
+<details>
+<summary>Day 45, 3/17/24</summary>
+
+ - Took a weeks break. Busy with work and family. Picked up where I left off with JS OOP course module on building a Shopping Cart. 
 </details>
 
