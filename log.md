@@ -211,6 +211,13 @@ Completed:
 <details>
 <summary>Day 45, 3/17/24</summary>
 
- - Took a weeks break. Busy with work and family. Picked up where I left off with JS OOP course module on building a Shopping Cart. 
+ - Took a weeks break. Busy with work and family. Picked up where I left off with JS OOP course module on building a Shopping Cart.  
+</details>
+
+<details>
+<summary>Day 46, 3/20/24</summary>
+Completed:
+
+ - Learn Basic OOP by building a Shopping Cart  
 </details>
 
