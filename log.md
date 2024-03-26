@@ -220,4 +220,11 @@ Completed:
 
  - Learn Basic OOP by building a Shopping Cart  
 </details>
+<details>
+<summary>Day 47-52, 3/26/24</summary>
+
+- working through the freeCodeCamp course module on intermediate OOP by building a Platformer Game -- this is fun!
+- studying the new free google tech dev guide curriculum on DSA
+- applying to dev jobs, working a day job, applying to more dev jobs, gardening, eating, sleeping.
+</details>
 
