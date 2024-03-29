@@ -227,4 +227,11 @@ Completed:
 - studying the new free google tech dev guide curriculum on DSA
 - applying to dev jobs, working a day job, applying to more dev jobs, gardening, eating, sleeping.
 </details>
+<details>
+<summary>Day 53-55, 3/29/24</summary>
+Completed:
+
+- Intermdiate JS OOP by building a platformer game lesson. Only 5 modules left till certification! 
+but, the sun's out.. and here in the PNW, you have to take advantage. 
+</details>
 
