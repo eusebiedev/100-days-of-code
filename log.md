@@ -245,3 +245,10 @@ but, the sun's out.. and here in the PNW, you have to take advantage.
 Having a blast with this weeks programming and reading. Spring has sprung! 
 </details>
 
+<summary>Day 63-73, 4/6-11/24</summary>
+
+- Completed the freeCodeCamp certification course module: JS Intermediate Algorithmic Build a Cash Register. 
+- Work was busy as all heck that last week. So coding was intermittent. But I finally got this project finished!
+</details>
+
+
