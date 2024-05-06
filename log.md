@@ -263,6 +263,7 @@ Having a blast with this weeks programming and reading. Spring has sprung!
 
 - Completed the freeCodeCamp Intermediate JavaScript course module: Learn Fetch and Promises by Building an fCC Authors Page. APIs are fun!
 </details>
+
 <details>
 
 <summary>Day 76-78/100, 5/05/24</summary>
@@ -270,6 +271,12 @@ Having a blast with this weeks programming and reading. Spring has sprung!
 - I'm back after taking a break, a bit of travel & relaxation. Picking up where I left off.
 Completed the freeCodeCamp Learn Asynchronous Programming by Building an fCC Forum Leaderboard this morning. 
 One more course module to get the Intermediate JavaScript Algorithms and Data Structures certificate! Onwards!
+</details>
+<details>
+
+<summary>Day 79/100, 5/05/24 <b><i>Earned the freeCodeCamp JavaScript Algorithms and Data Structures (Beta) Certification</i></b></summary>
+
+- Very excited to have completed the final project, Build a Pokemon Search App, and earned my freeCodeCamp JavaScript Algorithms and Data Structures (Beta) Certification! Truly an amazing resource and am very grateful to have access to this curriculum! Onwards to the Front End course!
 </details>
 
 
