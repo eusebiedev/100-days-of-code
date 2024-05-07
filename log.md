@@ -278,5 +278,13 @@ One more course module to get the Intermediate JavaScript Algorithms and Data St
 
 - Very excited to have completed the final project, Build a Pokemon Search App, and earned my freeCodeCamp JavaScript Algorithms and Data Structures (Beta) Certification! Truly an amazing resource and am very grateful to have access to this curriculum! Onwards to the Front End course!
 </details>
+<br>
+<hr>
+<br>
+<details>
+<summary>Day 80/100, 5/7/24</summary>
+
+-Began the freeCodeCamp Front End Development Libraries certification curriculum. Exciting!
+</details>
 
 
