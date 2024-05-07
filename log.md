@@ -282,9 +282,9 @@ One more course module to get the Intermediate JavaScript Algorithms and Data St
 <hr>
 <br>
 <details>
-<summary>Day 80/100, 5/7/24</summary>
+<summary>Day 80/100, 5/7/24 - <b>Starting the freeCodeCamp Front End Development Certification</b></summary>
 
--Began the freeCodeCamp Front End Development Libraries certification curriculum. Exciting!
+-Continuting the 100 Days of Code Challenge with the freeCodeCamp Front End Development Libraries certification curriculum. Exciting!
 </details>
 
 
