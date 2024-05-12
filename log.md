@@ -286,5 +286,10 @@ One more course module to get the Intermediate JavaScript Algorithms and Data St
 
 * Continuting the 100 Days of Code Challenge with the freeCodeCamp Front End Development Libraries certification curriculum. Exciting!
 </details>
+<details>
+<summary>Day 81-85/100, 5/12/24</summary>
+
+- Continuing to work thru the Front End curriculum. And gardening alot. It's finally nice here in the PNW.
+</details>
 
 
