@@ -298,5 +298,10 @@ One more course module to get the Intermediate JavaScript Algorithms and Data St
 So, laid into reading up on getting more involved in Open Source projects on the GitHub ReadMe blog. Great site! Highly recommended if you haven't checked it out. Tons of great reads:
 [GitHub ReadMe Link](https://github.com/readme/topics/open-source)
 </details>
+<details>
+<summary>Day 87/100, 5/14/24</summary>
+
+- Continuing to work through the Front End curriculum.. currently jQuery
+</details>
 
 
