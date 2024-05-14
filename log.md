@@ -291,5 +291,12 @@ One more course module to get the Intermediate JavaScript Algorithms and Data St
 
 - Continuing to work thru the Front End curriculum. And gardening alot. It's finally nice here in the PNW.
 </details>
+<details>
+<summary>Day 86/100, 5/13/24</summary>
+
+- Not feeling particularly well today.. and worked my tush off. 
+So, laid into reading up on getting more involved in Open Source projects on the GitHub ReadMe blog. Great site! Highly recommended if you haven't checked it out. Tons of great reads:
+[GitHub ReadMe Link](https://github.com/readme/topics/open-source)
+</details>
 
 
