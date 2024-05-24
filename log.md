@@ -303,5 +303,13 @@ So, laid into reading up on getting more involved in Open Source projects on the
 
 - Continuing to work through the Front End curriculum.. currently jQuery
 </details>
+<details>
+<summary>Days 91-97, 5/24/24</summary>
+
+- busy as heck family / work week 
+- continuing to work thru the :fcc: front end curriculum
+- studying Electron JS.. which is really cool!
+- also, began a nicely discounted udemy React - the complete guide including Next.js / Redux course 
+</details>
 
 
