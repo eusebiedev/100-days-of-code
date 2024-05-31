@@ -322,4 +322,12 @@ I'm continuing to work through the freeCodeCamp front end libraries curriculum, 
 ps - Should I finally install GitHub Copilot after all this time?
 </details>
 
+<details>
+<summary>Day 101/200 #200daysofcode</summary>
+
+- Continuing my React complete course on udemy : sidebarred with the free Full Stack Open course from University of Helsinki ECTS/Open University!
+- Intermittently following along with great tutorial on building a Discord bot that goes choo choo!
+- Applying to jobs I find on ClimateBase, ClimateTechList currently
+</details>
+
 
