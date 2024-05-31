@@ -317,7 +317,7 @@ So, laid into reading up on getting more involved in Open Source projects on the
 - Well I reckon I finished this round! Feel great about my progress & the hashtag#freeCodeCamp community is awesome. 
 I'm continuing to work through the freeCodeCamp front end libraries curriculum, moving nicely thru the udemy react/next.js/redux course i enrolled in & studying a bit of Electron JS
 
-..and of course sending out applications for that 1st dev role. I'm looking into possibly enrolling to get a CS degree. Not sure about that yet. Onwards! I'll still l post progress on the curriculum as I go forward.
+..and of course sending out applications for that 1st dev role. I'm looking into possibly enrolling to get a CS degree. Not sure about that yet. Onwards! I'll still post progress on the curriculum as I go forward.
 
 ps - Should I finally install GitHub Copilot after all this time?
 </details>
