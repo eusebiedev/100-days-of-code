@@ -327,7 +327,7 @@ ps - Should I finally install GitHub Copilot after all this time?
 
 - Continuing my React complete course on udemy : sidebarred with the free Full Stack Open course from University of Helsinki ECTS/Open University!
 - Intermittently following along with great tutorial on building a Discord bot that goes choo choo!
-- Applying to jobs I find on ClimateBase, ClimateTechList currently
+- Applying to jobs I find on ClimateBase, ClimateTechList. I'd love to work in Climate Tech industry!
 </details>
 
 
