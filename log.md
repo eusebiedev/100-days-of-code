@@ -329,5 +329,10 @@ ps - Should I finally install GitHub Copilot after all this time?
 - Intermittently following along with great tutorial on building a Discord bot that goes choo choo!
 - Applying to jobs I find on ClimateBase, ClimateTechList. I'd love to work in Climate Tech industry!
 </details>
+<details>
+<summary>Day 103/200 #200daysofcode, 6/2/24</summary>
+
+- Continuing with my udemy React complete course. its pretty awesome thus far. I've decided to embark on learning Go to complement the React front end skillset.
+</details>
 
 
