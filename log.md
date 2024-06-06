@@ -334,5 +334,16 @@ ps - Should I finally install GitHub Copilot after all this time?
 
 - Continuing with my udemy React complete course. its pretty awesome thus far. I've decided to embark on learning Go to complement the React front end skillset.
 </details>
+<details>
+<summary>Day 104-105/200 #200daysofcode, 6/6/24</summary>
+
+Todays Schedule:
+- continuing my udemy React complete course studies for 2 hrs in the morning
+- mow lawn mid day
+- lunch, coffee
+- studies on how to build a basic Electron JS app with Electron Fiddle 1 hr
+- back to React studies for 2 hours
+- chill 
+</details>
 
 
