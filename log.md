@@ -345,5 +345,11 @@ Todays Schedule:
 - back to React studies for 2 hours
 - chill 
 </details>
+<details>
+<summary>Day 112/200 ⁠100-days-of-code Round 2, 6/16/24</summary>
+
+- Completed the Web Developer course from IBM SkillsBuild. Refreshed my knowledge of HTML, CSS, and JavaScript
+- also got to the Core Unit Testing Techniques section on my JS course: boundaries, parameterized, asynchronous tests, and writing good assertions. 
+</details>
 
 
