@@ -346,10 +346,16 @@ Todays Schedule:
 - chill 
 </details>
 <details>
-<summary>Day 112/200 ⁠100-days-of-code Round 2, 6/16/24</summary>
+<summary>Day 112/200 ⁠#200daysofcode Round 2, 6/16/24</summary>
 
 - Completed the Web Developer course from IBM SkillsBuild. Refreshed my knowledge of HTML, CSS, and JavaScript
 - also got to the Core Unit Testing Techniques section on my JS course: boundaries, parameterized, asynchronous tests, and writing good assertions. 
+</details>
+<details>
+<summary>Day 113/200 ⁠#200daysofcode Round 2, 6/19/24</summary>
+
+- continuing JS Unit Testing course. I really enjoy implementing parameterized testing techniques.
+- started an IBM AI Fundamentals course. More of a textbook/assessment style course. Looking forward to implementing this aspect into my code journey into ML/NLP/DL.  
 </details>
 
 
