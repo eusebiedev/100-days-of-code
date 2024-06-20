@@ -346,7 +346,7 @@ Todays Schedule:
 - chill 
 </details>
 <details>
-<summary>Day 112/200 ⁠#200daysofcode Round 2, 6/16/24</summary>
+<summary>Day 112/200 ⁠#200daysofcode Round 2, 6/16/24 <b><i>Earned an IBM Web Developer Fundamentals Certification</i></b></summary></summary></summary>
 
 - Completed the Web Developer course from IBM SkillsBuild. Refreshed my knowledge of HTML, CSS, and JavaScript
 - also got to the Core Unit Testing Techniques section on my JS course: boundaries, parameterized, asynchronous tests, and writing good assertions. 
@@ -356,6 +356,13 @@ Todays Schedule:
 
 - continuing JS Unit Testing course. I really enjoy implementing parameterized testing techniques.
 - started an IBM AI Fundamentals course. More of a textbook/assessment style course. Looking forward to implementing this aspect into my code journey into ML/NLP/DL.  
+</details>
+<details>
+<summary>Day 114/200 ⁠#200daysofcode Round 2, 6/20/24 <b><i>Earned an IBM AI Fundamentals Certification</i></b></summary></summary>
+
+- Completed an IBM AI Fundamentals certification this morning. I really enjoyed this course, especially the sections on AI Ethics, and practicing how to run an AI Model in Watson Studio.
+- Onward to continuing my React course today, as well as a touching on JS Unit Testing. 
+Have to make the most of my day off from the `day job`!
 </details>
 
 
