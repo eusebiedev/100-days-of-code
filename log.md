@@ -358,11 +358,18 @@ Todays Schedule:
 - started an IBM AI Fundamentals course. More of a textbook/assessment style course. Looking forward to implementing this aspect into my code journey into ML/NLP/DL.  
 </details>
 <details>
-<summary>Day 114/200 ⁠#200daysofcode Round 2, 6/20/24 <b><i>Earned an IBM AI Fundamentals Certification</i></b></summary></summary>
+<summary>Day 114/200 ⁠#200daysofcode Round 2, 6/20/24 <b><i>Earned an IBM AI Fundamentals Certification</i></b></summary>
 
 - Completed an IBM AI Fundamentals certification this morning. I really enjoyed this course, especially the sections on AI Ethics, and practicing how to run an AI Model in Watson Studio.
 - Onward to continuing my React course today, as well as a touching on JS Unit Testing. 
 Have to make the most of my day off from the `day job`!
+</details>
+<details>
+<summary>Days 115-117/200 #200daysofcode, 6/23/24</summary>
+
+- React Complete course on udemy, up to Section 4 -`Deep Dive` ...of 38.
+- Mastering JS unit testing course
+- Reading up on AI Ethics
 </details>
 
 
