@@ -371,5 +371,11 @@ Have to make the most of my day off from the `day job`!
 - Mastering JS unit testing course
 - Reading up on AI Ethics
 </details>
+<details>
+<summary>Days 119/200 #200daysofcode, 6/23-26/24</summary>
+
+- continuing React Complete course on udemy, working with advanced state
+- as well as JS unit testing course, working with Mocks
+</details>
 
 
