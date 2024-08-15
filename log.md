@@ -377,5 +377,9 @@ Have to make the most of my day off from the `day job`!
 - continuing React Complete course on udemy, working with advanced state
 - as well as JS unit testing course, working with Mocks
 </details>
+<details>
+<summary>Taking a break to focus on my React Course!</summary>
+
+</details>
 
 
