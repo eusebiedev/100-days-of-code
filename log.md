@@ -381,5 +381,12 @@ Have to make the most of my day off from the `day job`!
 <summary>Taking a break to focus on my React Course!</summary>
 
 </details>
+<details>
+<summary>Days 121-150/200 #100daysofcode Round 2!</summary>
+
+- Began a side code challenge called 100 Days of Open Source from OpenSauced! Mostly reading all that fantastic documentation whilst practicing on my own repo's for now. I love reading docs.
+- Continuing my awesome Udemy Master React w/Next.js & Redux course. I'm up to Lesson 108 of 741. Taught by Maximilian Schwarzmüller.
+- Going through the Next.js app router course as well building an Admin Dashboard. Pretty cool stuff! Have fun out there! 
+</details>
 
 
